@@ -31,4 +31,7 @@ class Student
     @id=(id_table)[0][0]
   end
 
+  def self.create(name:, grade:)
+  end
+
 end
